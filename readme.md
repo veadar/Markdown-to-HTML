@@ -31,3 +31,4 @@ Downloadをクリック → [Download](https://github.com/veadar/Markdown-to-HTM
 
 - [MMMarkdown](https://github.com/mdiep/MMMarkdown)
 - [MenubarAppleScript](http://memogakisouko.appspot.com/MenuBarAppleScript.html)
+- [Preview icon](https://www.iconfinder.com/icons/46825/preview_icon#size=512)
